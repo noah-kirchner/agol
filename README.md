@@ -1,2 +1,2 @@
-# esrijs
-Esri JS Map 1
+# agol
+AGOL Map 1
